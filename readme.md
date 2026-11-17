@@ -110,10 +110,4 @@ This project demonstrates how SQL, Python, and Power BI can be used together to 
 
 The analysis supports data-driven decisions related to charging station utilization, energy demand, waiting time, and operational efficiency.
 
-## Author
-
-Priyadharshini
-
-**Project Category:** Data Analytics
-
 **Tools:** MySQL | Python | Power BI
